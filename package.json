@@ -1,0 +1,12 @@
+{
+  "name": "jwt_authentication_authorization_node",
+  "version": "1.0.0",
+  "description": "Jwt Authentication with Node.js, Typegoose, mongoDB, Mongoose, Docker, Redis, and JsonWebToken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
